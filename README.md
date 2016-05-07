@@ -1,6 +1,6 @@
 # gomoku
 
-Created by Jason Yang and [Kinsa Durst](https://github.com/kinsidar)
+Created by [Jason Yang](https://github.com/jasonyang1496) and [Kinsa Durst](https://github.com/kinsidar)
 
-Introduction to Programming in C
+Introduction to Programming in C  
 NYU Tandon School of Engineering
