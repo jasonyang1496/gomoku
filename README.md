@@ -1,1 +1,1 @@
-# linesofaction
+# gomoku
