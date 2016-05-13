@@ -227,7 +227,7 @@ int playGame() {
 		}
 		inputChar = getch();
 
-		if(inputChar != ' ') {
+		if (inputChar != ' ') {
 			switch (inputChar){
 				case KEY_UP:
 					if (y == 3 || y == 5 || y == 7 || y == 9 || y == 11 || y == 13 || y == 15 || y == 17) {
